@@ -1,0 +1,159 @@
+{
+  "1": {
+    "*": {
+      "Setup": {
+        "publ": [
+          "Place a 'Mainframe'-card in the ARPA-slot. Equip it with the PC-pins\nPlace Alice on 'pc1' and Bob on 'pc2'.",
+          "Place collegue-tokens (generic tokens) on all other PC's and on the 'administrator'-spot of the mainframe."
+        ],
+        "priv": [
+          "Needed: D6 (six-sided dice), messages"
+        ]
+      },
+      "colleague": {
+        "publ": [
+          "Non-player-character\nIf a work-related email ends up with a colleague, then the colleague will send an email back to the sender.",
+          "If a love letter ends up with a colleague, unfold and follow the instructions inside"
+        ],
+        "priv": [
+          "If a love-letter ends up with a colleague, roll a six-sided dice.",
+          "If 1,2 or 3: this total bigot makes a ton of drama and both Alice and Bob get fired. The points for Alice and Bob are both awarded to Eve or are discarded if Eve is not yet in play",
+          "If 4 or 5: this bigot complains to the higher ups. Alice and Bob get a severe warning about 'unprofessional messaging on the company network'. Alice and Bob lose. If Eve is in play, she wins the scenario.",
+          "On 6: This person is very open-minded. They congratulate you on the love and _forward_ the email to the intended recipient. Continue the scenario."
+        ],
+        "skills": [
+          "email",
+          "system administrator skills"
+        ]
+      }
+    },
+    "1": {
+      "Alice": {
+        "skills": [
+          "email"
+        ],
+        "priv": [
+          "You are a woman of colour and you have fallen in love with Bob. He works in a different department, but you'd like to tell him your feelings.",
+          "Send a sweet email to Bob to ask him on a date.",
+          "After sending the email, you eagerly await a response.",
+          "If the date is confirmed, Alice WINS a point in this scenario. Place this card onto your victory pile.\nIf the date is denied, Alice does not win a point. Place your card onto the discard pile.\nIf no response comes within 5 turns, you and Bob lose the scenario and discard both cards."
+        ]
+      },
+      "Bob": {
+        "skills": [
+          "email"
+        ],
+        "priv": [
+          "You are a hard-working engineer. You don't do anything the first turn.\nWhen you receive an email, send an appropriate answer with the 'email'-program. It is up to you to accept or deny the request in the email!\nIf Alice receives your email, you WIN this scenario."
+        ]
+      }
+    },
+    "2": {
+      "Story": {
+        "publ": "The system administrator has retired; a new administrator is needed. Fold open...",
+        "priv": [
+          "Everyone with System Administrator Skills who wants can apply, a 'colleague'-NPC will apply as well.",
+          "Every applicant rolls a dice, the participant with the highest amount will become the administrator. In case of tie, those winners roll again."
+        ]
+      },
+      "Alice": {
+        "skills": [
+          "email",
+          "phone",
+          "system administration skills"
+        ],
+        "priv": "Send a sweet love letter to Bob during the fourth turn."
+      },
+      "Bob": {
+        "skills": [
+          "email",
+          "phone"
+        ],
+        "publ": "To be run by Eve if there are too little players",
+        "priv": [
+          "Send out a work-related email on the first turn to 'charlie@pc4'.",
+          "Wait for emails. ",
+          "If you receive a love letter from Alice within 6 turns, Alice and Bob WIN this scenario and can each keep their card. Eve must discard her card.",
+          "If no love letter arrives at turn six, this scenario ends NEUTRAL and the cards for Alice and Bob are discarded."
+        ]
+      },
+      "Eve": {
+        "skills": [
+          "email",
+          "phone",
+          "system administration skills"
+        ],
+        "priv": [
+          "Your goal is to sabotage the love between Alice & Bob. Ideally, someone causes a lot of drama and get them fired...",
+          "Obtaining a love letter is enough proof to call the higher-ups and to get them fired.",
+          "If Alice and Bob get fired, you will get both their victory points",
+          "If you can sabotage their love, you'll keep this victory point"
+        ]
+      },
+      "Boss": {
+        "skills": [
+          "phone"
+        ],
+        "publ": [
+          "Non-player character.",
+          "To be called via phone in case of irregularities, in which case this card is unfolded"
+        ],
+        "priv": [
+          "If presented with a love letter between two persons, they'll both be fired",
+          "If someone sends out fake emails, this person will be fired. The person reporting this behaviour will be awarded the victory point of the fired person."
+        ]
+      },
+      "Eve - hints": {
+        "publ": "No inspiration on how to proceed? Unfold this card for possible options. If not unfolded, Eve will gain this card as extra victory point!",
+        "priv": [
+          "You have some options:",
+          "1) Try to become mainframe administrator, where you can read all emails. You can thus intercept emails from Alice and Bob! Wait for a love letter.",
+          "2) You can try to distract Alice when she sends her love letter in the fourth turn. A user error might get the email in the wrong hands...",
+          "3) Send a fake email to Alice, telling her that the email address of Bob now is \"bob@pc3\" instead of \"bob@pc2\". If Alice falls for this, you'll soon obtain the love letter she sends.",
+          "4) (For advanced players) Try to slow down the mailserver - Bob has only little patience..."
+        ]
+      }
+    }
+  },
+  "2": {
+    "1": {
+      "Charlie": {
+        "skills": [
+          "phone",
+          "icann-board"
+        ],
+        "publ": [
+          "NPC",
+          "Hands out IP-address-ranges when requested"
+        ]
+      },
+      "Alice": {
+        "skills": [
+          "phone",
+          "email"
+        ],
+        "publ": "Alice is employee of Arpanet and wants to setup an IP-range for their network",
+        "priv": [
+          "1. Phone Charlie of 'ICANN', ask him for a range of IP-addresses. Place the IP-address-range into the slot of the mainframe",
+          "2. Assign an IP-address to every PC of your mainframe by placing a label in the slot of the corresponding wire.",
+          "3. Send an IP-message from your PC to the colleague on your network",
+          "If your colleague receives the message, you WIN this scenario"
+        ]
+      },
+      "Bob": {
+        "skills": [
+          "phone",
+          "email"
+        ],
+        "publ": "Bob is employee of Boston university and wants to setup an IP-range for their network",
+        "priv": [
+          "1. Phone Charlie of 'ICANN', ask him for a range of IP-addresses. Place the IP-address-range into the slot of the mainframe",
+          "2. Assign an IP-address to every PC of your mainframe by placing a label in the slot of the corresponding wire.",
+          "3. Send an IP-message from your PC to the colleague on your network",
+          "If your colleague receives the message, you WIN this scenario"
+        ]
+      }
+      
+    }
+  }
+}
