@@ -1,4 +1,47 @@
 {
+  "programs": {
+    "Email": {
+      "priv": [
+        "To send an email:",
+        "1. Take a piece of paper\n2. Write 'to <user>@<machine> from <user>@<machine>' on top, replacing <user> and <machine> with the actual recipient and sender.\n3. Write a message below\n4. Put the email on the mainframe, with the written side down so that other players cannot read it.\n5. Your turn ends",
+        "Note: to 'forward' an email, it is permitted to write a header above the original message."
+      ]
+    },
+    "Phone": {
+      "priv": [
+        "In normal circumstances, it is not permitted to communicate between players, but this is allowed with the phone program.",
+        "1. Announce who you are calling. This person must also have access to the phone.\n2. You can now communicate scenario-information with the person you are calling.\n3. End your turn",
+        "Note: Who has a phone is considered public information, so you can ask the other players this information in case of doubt."
+      ]
+    },
+    "Wire cut": {
+      "publ": [
+        "Disconnect a wire, anywhere on the board.",
+        "End your turn"
+      ]
+    },
+    "Connect": {
+      "publ": [
+        "Connect a wire, anywhere on the board.",
+        "If an IP-label is face-down, place it face up again",
+        "End your turn"
+      ]
+    },
+    "Email server": {
+      "publ": "How to run a mainframe (or email server)?",
+      "priv": []
+    },
+    "Mainframe (IP)": {
+      "priv": [
+        "0. If a wire is broken, turn the IP-label face-down to indicate a loss in connectivity.",
+        "1. If a message reads 'IP-range <range> can be reached via this wire', place a label of the corresponding IP range in the slot of the wire. Place a dice next to it, indicating the number of hops needed",
+        "2. If a message reads 'from <ip> to <target-ip>': check all labels. If a label matches the IP-address exactly, send it via this wire.\nIf no exact IP-address match is found, send it via the range-label starting with the same number and which has the lowest number of hops.\n   If not possible, discard the message."
+      ]
+    },
+    "Request IP Range": {
+      "priv": ["Take a diamond-shaped range from the ICANN-board; place it into a mainframe.","End your turn"]
+    }
+  },
   "1": {
     "*": {
       "Setup": {
@@ -17,13 +60,26 @@
         ],
         "priv": [
           "If a love-letter ends up with a colleague, roll a six-sided dice.",
-          "If 1,2 or 3: this total bigot makes a ton of drama and both Alice and Bob get fired. The points for Alice and Bob are both awarded to Eve or are discarded if Eve is not yet in play",
-          "If 4 or 5: this bigot complains to the higher ups. Alice and Bob get a severe warning about 'unprofessional messaging on the company network'. Alice and Bob lose. If Eve is in play, she wins the scenario.",
+          "If 1,2 or 3: this colleague delivers the email to the boss",
+          "If 4 or 5: the email is discarded",
           "On 6: This person is very open-minded. They congratulate you on the love and _forward_ the email to the intended recipient. Continue the scenario."
         ],
         "skills": [
           "email",
           "system administrator skills"
+        ]
+      },
+      "Boss": {
+        "skills": [
+          "phone"
+        ],
+        "publ": [
+          "Non-player character.",
+          "To be called via phone in case of irregularities, in which case this card is unfolded"
+        ],
+        "priv": [
+          "If presented with a love letter between two persons, they'll both be fired",
+          "If someone sends out fake emails, this person will be fired. The person reporting this behaviour will be awarded the victory point of the fired person."
         ]
       }
     },
@@ -90,19 +146,6 @@
           "If you can sabotage their love, you'll keep this victory point"
         ]
       },
-      "Boss": {
-        "skills": [
-          "phone"
-        ],
-        "publ": [
-          "Non-player character.",
-          "To be called via phone in case of irregularities, in which case this card is unfolded"
-        ],
-        "priv": [
-          "If presented with a love letter between two persons, they'll both be fired",
-          "If someone sends out fake emails, this person will be fired. The person reporting this behaviour will be awarded the victory point of the fired person."
-        ]
-      },
       "Eve - hints": {
         "publ": "No inspiration on how to proceed? Unfold this card for possible options. If not unfolded, Eve will gain this card as extra victory point!",
         "priv": [
@@ -117,20 +160,15 @@
   },
   "2": {
     "1": {
-      "Charlie": {
-        "skills": [
-          "phone",
-          "icann-board"
-        ],
+      "Story": {
         "publ": [
-          "NPC",
-          "Hands out IP-address-ranges when requested"
+          "Arpanet, Boston University and the NSA want to connect to each other via the internet. This is not straightforward",
+          "All three start with setting up IP for their local networks"
         ]
       },
       "Alice": {
         "skills": [
-          "phone",
-          "email"
+          "request IP range"
         ],
         "publ": "Alice is employee of Arpanet and wants to setup an IP-range for their network",
         "priv": [
@@ -142,8 +180,7 @@
       },
       "Bob": {
         "skills": [
-          "phone",
-          "email"
+          "request IP range"
         ],
         "publ": "Bob is employee of Boston university and wants to setup an IP-range for their network",
         "priv": [
@@ -152,8 +189,59 @@
           "3. Send an IP-message from your PC to the colleague on your network",
           "If your colleague receives the message, you WIN this scenario"
         ]
+      },
+      "Eve": {
+        "skills": [
+          "request IP range"
+        ],
+        "publ": "Bob is employee of the National Security Agency (NSA) and wants to setup an IP-range for their network",
+        "priv": [
+          "1. Phone Charlie of 'ICANN', ask him for a range of IP-addresses. Place the IP-address-range into the slot of the mainframe",
+          "2. Assign an IP-address to every PC of your mainframe by placing a label in the slot of the corresponding wire.",
+          "3. Send an IP-message from your PC to the colleague on your network",
+          "If your colleague receives the message, you WIN this scenario"
+        ]
       }
-      
+    },
+    "2": {
+      "Story": {
+        "publ": [
+          "Time to connect ARPANET with Boston University"
+        ]
+      },
+      "Alice": {
+        "priv": [
+          "0. Place a wire with a pin in your mainframe, the other (male) side is still loose\n1. Phone Bob from Boston University; ask him if they want to connect via direct wire. Also: ask him his IP-addresss\n2. If Bob agrees, connect the two loose wires.",
+          "If a wire gets connected, send a message with text 'BGP-announcement: IP-range <your range here> can be reached via this wire in 1 hop' and send it via the wire.",
+          "3. Send an IP-message to the IP-address of Bob (you asked this in the phone earlier. If you've forgotten it, call again)\n4. Wait for a reply; if a reply arrives, you have WON this scenario"
+        ]
+      },
+      "Bob": {
+        "priv": [
+          "Place a wire with a pin in your mainframe. The other (female) end is still loose.",
+          "If Alice calls you, agree with her proposal.",
+          "If a wire gets connected, send a message with text 'BGP-announcement: IP-range <your range here> can be reached via this wire in 1 hop' and send it via the wire.",
+          "When you get an IP-message, send some answer. You WIN this scenario."
+        ]
+      }
+    },
+    "3": {
+      "Story": {
+        "priv": [
+          "Now that ARPANet and Boston University are connected, they can start their secret research.",
+          "But the NSA would like to snoop on the research too, and maybe sabotage it..."
+        ]
+      },
+      "Alice": {
+      },
+      "Bob": {
+      },
+      "Eve": {
+        "priv": [
+          "Eve wants to know what research messages are sent between Arpanet and Boston university.",
+          "She wants to:\n Know _which_ employees are sending messages to each other?\n- Know _what_ do these messages say?\n- alter some of those messages..."
+        ]
+      }
     }
   }
 }

@@ -1,14 +1,10 @@
-
-
 # Scenario 1: the colored couple
 
 2 players minimal
-3 players + narrator maximal":
+3 players + narrator maximal
 1 Dice (D6)
 
 ## Story 1.1
-
-_Two players; one can manage the mainframe_
 
 The year is 1972. The internet is starting to take hold, thanks to experiments and funding through the [ARPANET program](https://en.wikipedia.org/wiki/ARPANET).
 

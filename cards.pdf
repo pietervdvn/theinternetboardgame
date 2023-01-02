@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 2770
+/Length 2778
 >>
 stream
 0.5670000000000001 w
@@ -22,26 +22,7 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 3. 10. Tm
-(colleague \(1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 17. Tm
-(Available programs:) Tj
-T* (email, system administrator) Tj
-T* (skills) Tj
-T* () Tj
-T* (Non-player-character) Tj
-T* (If a work-related email ends up) Tj
-T* (with a colleague, then the) Tj
-T* (colleague will send an email) Tj
-T* (back to the sender.) Tj
-T* () Tj
-T* (If a love letter ends up with a) Tj
-T* (colleague, unfold and follow the) Tj
-T* (instructions inside) Tj
+(Story \(1.1\)) Tj
 ET
 0. 99. m
 70. 99. l
@@ -53,14 +34,6 @@ BT
 1. 0. 0. -1. 3. 109. Tm
 (Alice \(1.1\)) Tj
 ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 116. Tm
-(Available programs:) Tj
-T* (email) Tj
-ET
 0. 198. m
 70. 198. l
 S
@@ -71,17 +44,6 @@ BT
 1. 0. 0. -1. 3. 208. Tm
 (Eve - hints \(1.2\)) Tj
 ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 215. Tm
-(No inspiration on how to) Tj
-T* (proceed? Unfold this card for) Tj
-T* (possible options. If not) Tj
-T* (unfolded, Eve will gain this card) Tj
-T* (as extra victory point!) Tj
-ET
 0. 297. m
 70. 297. l
 S
@@ -90,7 +52,7 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 73. 10. Tm
-(colleague \(1\)) Tj
+(Story \(1.1\)) Tj
 ET
 70. 99. m
 140. 99. l
@@ -105,6 +67,14 @@ BT
 1. 0. 0. -1. 73. 109. Tm
 (Alice \(1.1\)) Tj
 ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 116. Tm
+(Available skills and programs:) Tj
+T* (email) Tj
+ET
 70. 198. m
 140. 198. l
 S
@@ -117,6 +87,17 @@ BT
 0 g
 1. 0. 0. -1. 73. 208. Tm
 (Eve - hints \(1.2\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 215. Tm
+(No inspiration on how to) Tj
+T* (proceed? Unfold this card for) Tj
+T* (possible options. If not) Tj
+T* (unfolded, Eve will gain this card) Tj
+T* (as extra victory point!) Tj
 ET
 70. 297. m
 140. 297. l
@@ -158,15 +139,26 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 143. 109. Tm
-(Bob \(1.1\)) Tj
+(colleague \(1\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 116. Tm
-(Available programs:) Tj
-T* (email) Tj
+(Available skills and programs:) Tj
+T* (email, system administrator) Tj
+T* (skills) Tj
+T* () Tj
+T* (Non-player-character) Tj
+T* (If a work-related email ends up) Tj
+T* (with a colleague, then the) Tj
+T* (colleague will send an email) Tj
+T* (back to the sender.) Tj
+T* () Tj
+T* (If a love letter ends up with a) Tj
+T* (colleague, unfold and follow the) Tj
+T* (instructions inside) Tj
 ET
 140. 198. m
 210. 198. l
@@ -179,16 +171,21 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 143. 208. Tm
-(Story \(1.2\)) Tj
+(Boss \(1\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 215. Tm
-(The system administrator has) Tj
-T* (retired; a new administrator is) Tj
-T* (needed. Fold open...) Tj
+(Available skills and programs:) Tj
+T* (phone) Tj
+T* () Tj
+T* (Non-player character.) Tj
+T* () Tj
+T* (To be called via phone in case) Tj
+T* (of irregularities, in which case) Tj
+T* (this card is unfolded) Tj
 ET
 140. 297. m
 210. 297. l
@@ -208,7 +205,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5014
+/Length 4899
 >>
 stream
 0.200025 w
@@ -218,198 +215,16 @@ BT
 /F1 6.35 Tf
 7.3024999999999993 TL
 0 g
-1. 0. 0. -1. 143. 10. Tm
-(Setup \(1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 143. 17. Tm
-(Needed: D6 \(six-sided dice\),) Tj
-T* (messages) Tj
-ET
-140. 99. m
-210. 99. l
-S
-210. 0. m
-210. 99. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 143. 109. Tm
-(Bob \(1.1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 143. 116. Tm
-(You are a hard-working) Tj
-T* (engineer. You don't do anything) Tj
-T* (the first turn.) Tj
-T* (When you receive an email,) Tj
-T* (send an appropriate answer) Tj
-T* (with the 'email'-program. It is) Tj
-T* (up to you to accept or deny the) Tj
-T* (request in the email!) Tj
-T* (If Alice receives your email,) Tj
-T* (you WIN this scenario.) Tj
-ET
-140. 198. m
-210. 198. l
-S
-210. 99. m
-210. 198. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 143. 208. Tm
-(Story \(1.2\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 143. 215. Tm
-(Everyone with System) Tj
-T* (Administrator Skills who wants) Tj
-T* (can apply, a 'colleague'-NPC) Tj
-T* (will apply as well.) Tj
-T* () Tj
-T* (Every applicant rolls a dice, the) Tj
-T* (participant with the highest) Tj
-T* (amount will become the) Tj
-T* (administrator. In case of tie,) Tj
-T* (those winners roll again.) Tj
-ET
-140. 297. m
-210. 297. l
-S
-210. 198. m
-210. 297. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 73. 10. Tm
-(colleague \(1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 73. 17. Tm
-(If 4 or 5: this bigot complains to) Tj
-T* (the higher ups. Alice and Bob) Tj
-T* (get a severe warning about) Tj
-T* ('unprofessional messaging on) Tj
-T* (the company network'. Alice) Tj
-T* (and Bob lose. If Eve is in play,) Tj
-T* (she wins the scenario.) Tj
-T* () Tj
-T* (On 6: This person is very) Tj
-T* (open-minded. They) Tj
-T* (congratulate you on the love) Tj
-T* (and _forward_ the email to the) Tj
-T* (intended recipient. Continue) Tj
-T* (the scenario.) Tj
-ET
-70. 99. m
-140. 99. l
-S
-140. 0. m
-140. 99. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 73. 109. Tm
-(Alice \(1.1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 73. 116. Tm
-(If the date is confirmed, Alice) Tj
-T* (WINS a point in this scenario.) Tj
-T* (Place this card onto your) Tj
-T* (victory pile.) Tj
-T* (If the date is denied, Alice does) Tj
-T* (not win a point. Place your card) Tj
-T* (onto the discard pile.) Tj
-T* (If no response comes within 5) Tj
-T* (turns, you and Bob lose the) Tj
-T* (scenario and discard both) Tj
-T* (cards.) Tj
-ET
-70. 198. m
-140. 198. l
-S
-140. 99. m
-140. 198. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 73. 208. Tm
-(Eve - hints \(1.2\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 73. 215. Tm
-(3\) Send a fake email to Alice,) Tj
-T* (telling her that the email) Tj
-T* (address of Bob now is) Tj
-T* ("bob@pc3" instead of) Tj
-T* ("bob@pc2". If Alice falls for) Tj
-T* (this, you'll soon obtain the love) Tj
-T* (letter she sends.) Tj
-T* () Tj
-T* (4\) \(For advanced players\) Try) Tj
-T* (to slow down the mailserver -) Tj
-T* (Bob has only little patience...) Tj
-ET
-70. 297. m
-140. 297. l
-S
-140. 198. m
-140. 297. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
 1. 0. 0. -1. 3. 10. Tm
-(colleague \(1\)) Tj
+(Setup) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 3. 17. Tm
-(If a love-letter ends up with a) Tj
-T* (colleague, roll a six-sided dice.) Tj
-T* () Tj
-T* (If 1,2 or 3: this total bigot) Tj
-T* (makes a ton of drama and both) Tj
-T* (Alice and Bob get fired. The) Tj
-T* (points for Alice and Bob are) Tj
-T* (both awarded to Eve or are) Tj
-T* (discarded if Eve is not yet in) Tj
-T* (play) Tj
-T* () Tj
-T* () Tj
+(Needed: D6 \(six-sided dice\),) Tj
+T* (messages) Tj
 ET
 0. 99. m
 70. 99. l
@@ -419,13 +234,92 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 3. 109. Tm
-(Alice \(1.1\)) Tj
+(colleague) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 3. 116. Tm
+(If a love-letter ends up with a) Tj
+T* (colleague, roll a six-sided dice.) Tj
+T* () Tj
+T* (If 1,2 or 3: this colleague) Tj
+T* (delivers the email to the boss) Tj
+T* () Tj
+T* (If 4 or 5: the email is discarded) Tj
+T* () Tj
+T* (On 6: This person is very) Tj
+T* (open-minded. They) Tj
+T* (congratulate you on the love) Tj
+T* (and _forward_ the email to the) Tj
+T* (intended recipient. Continue) Tj
+T* (the scenario.) Tj
+ET
+0. 198. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 208. Tm
+(Boss) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 3. 215. Tm
+(If presented with a love letter) Tj
+T* (between two persons, they'll) Tj
+T* (both be fired) Tj
+T* () Tj
+T* (If someone sends out fake) Tj
+T* (emails, this person will be fired.) Tj
+T* (The person reporting this) Tj
+T* (behaviour will be awarded the) Tj
+T* (victory point of the fired person.) Tj
+ET
+0. 297. m
+70. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Story) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 17. Tm
+(The year is 1972. The internet) Tj
+T* (is starting to take hold, thanks) Tj
+T* (to experiments and funding) Tj
+T* (through the [ARPANET progra) Tj
+T* (m]\(https://en.wikipedia.org/wiki/) Tj
+T* (ARPANET\).) Tj
+T* () Tj
+T* () Tj
+ET
+70. 99. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 109. Tm
+(Alice) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 116. Tm
 (You are a woman of colour and) Tj
 T* (you have fallen in love with) Tj
 T* (Bob. He works in a different) Tj
@@ -440,21 +334,21 @@ T* (eagerly await a response.) Tj
 T* () Tj
 T* () Tj
 ET
-0. 198. m
-70. 198. l
+70. 198. m
+140. 198. l
 S
 BT
 /F1 6.35 Tf
 7.3024999999999993 TL
 0 g
-1. 0. 0. -1. 3. 208. Tm
-(Eve - hints \(1.2\)) Tj
+1. 0. 0. -1. 73. 208. Tm
+(Eve - hints) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
-1. 0. 0. -1. 3. 215. Tm
+1. 0. 0. -1. 73. 215. Tm
 (You have some options:) Tj
 T* () Tj
 T* (1\) Try to become mainframe) Tj
@@ -471,8 +365,98 @@ T* (wrong hands...) Tj
 T* () Tj
 T* () Tj
 ET
-0. 297. m
-70. 297. l
+70. 297. m
+140. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Story) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+([Ray Tomlinson]\(https://en.wiki) Tj
+T* (pedia.org/wiki/Ray_Tomlinson\)) Tj
+T* (invented _email_ a year earlier.) Tj
+T* (He wrote a program that could) Tj
+T* (deliver text messages from one) Tj
+T* (computer to another, through) Tj
+T* (the network-switched) Tj
+T* (mainframes.) Tj
+T* () Tj
+T* (Alice is a black woman, Bob is) Tj
+T* (a white man. They both work) Tj
+T* (for ARPANET and something) Tj
+T* (beautiful could blossom) Tj
+T* (between them.) Tj
+T* () Tj
+T* (However, racism is rampant in) Tj
+T* (the US of this time, with the) Tj
+T* (racial segragation being) Tj
+T* (abandonded only a few years) Tj
+T* (earlier....) Tj
+ET
+140. 99. m
+210. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 109. Tm
+(Alice) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 116. Tm
+(If the date is confirmed, Alice) Tj
+T* (WINS a point in this scenario.) Tj
+T* (Place this card onto your) Tj
+T* (victory pile.) Tj
+T* (If the date is denied, Alice does) Tj
+T* (not win a point. Place your card) Tj
+T* (onto the discard pile.) Tj
+T* (If no response comes within 5) Tj
+T* (turns, you and Bob lose the) Tj
+T* (scenario and discard both) Tj
+T* (cards.) Tj
+ET
+140. 198. m
+210. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 208. Tm
+(Eve - hints) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 215. Tm
+(3\) Send a fake email to Alice,) Tj
+T* (telling her that the email) Tj
+T* (address of Bob now is) Tj
+T* ("bob@pc3" instead of) Tj
+T* ("bob@pc2". If Alice falls for) Tj
+T* (this, you'll soon obtain the love) Tj
+T* (letter she sends.) Tj
+T* () Tj
+T* (4\) \(For advanced players\) Try) Tj
+T* (to slow down the mailserver -) Tj
+T* (Bob has only little patience...) Tj
+ET
+140. 297. m
+210. 297. l
 S
 endstream
 endobj
@@ -486,7 +470,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 2769
+/Length 2511
 >>
 stream
 0.200025 w
@@ -499,18 +483,6 @@ BT
 1. 0. 0. -1. 3. 10. Tm
 (Alice \(2.1\)) Tj
 ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 17. Tm
-(Available programs:) Tj
-T* (phone, email) Tj
-T* () Tj
-T* (Alice is employee of Arpanet) Tj
-T* (and wants to setup an IP-range) Tj
-T* (for their network) Tj
-ET
 0. 99. m
 70. 99. l
 S
@@ -521,18 +493,6 @@ BT
 1. 0. 0. -1. 3. 109. Tm
 (Bob \(2.1\)) Tj
 ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 116. Tm
-(Available programs:) Tj
-T* (phone, email) Tj
-T* () Tj
-T* (Bob is employee of Boston) Tj
-T* (university and wants to setup) Tj
-T* (an IP-range for their network) Tj
-ET
 0. 198. m
 70. 198. l
 S
@@ -541,21 +501,9 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 3. 208. Tm
-(Eve \(1.2\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 215. Tm
-(Available programs:) Tj
-T* (email, phone, system) Tj
-T* (administration skills) Tj
+(Eve \(2.1\)) Tj
 ET
 0. 297. m
-70. 297. l
-S
-70. 198. m
 70. 297. l
 S
 BT
@@ -564,6 +512,18 @@ BT
 0 g
 1. 0. 0. -1. 73. 10. Tm
 (Alice \(2.1\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 17. Tm
+(Available skills and programs:) Tj
+T* (phone, email) Tj
+T* () Tj
+T* (Alice is employee of Arpanet) Tj
+T* (and wants to setup an IP-range) Tj
+T* (for their network) Tj
 ET
 70. 99. m
 140. 99. l
@@ -578,6 +538,18 @@ BT
 1. 0. 0. -1. 73. 109. Tm
 (Bob \(2.1\)) Tj
 ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 116. Tm
+(Available skills and programs:) Tj
+T* (phone, email) Tj
+T* () Tj
+T* (Bob is employee of Boston) Tj
+T* (university and wants to setup) Tj
+T* (an IP-range for their network) Tj
+ET
 70. 198. m
 140. 198. l
 S
@@ -589,21 +561,20 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 73. 208. Tm
-(Boss \(1.2\)) Tj
+(Eve \(2.1\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 73. 215. Tm
-(Available programs:) Tj
-T* (phone) Tj
+(Available skills and programs:) Tj
+T* (phone, email) Tj
 T* () Tj
-T* (Non-player character.) Tj
-T* () Tj
-T* (To be called via phone in case) Tj
-T* (of irregularities, in which case) Tj
-T* (this card is unfolded) Tj
+T* (Bob is employee of the) Tj
+T* (National Security Agency) Tj
+T* (\(NSA\) and wants to setup an) Tj
+T* (IP-range for their network) Tj
 ET
 70. 297. m
 140. 297. l
@@ -616,16 +587,15 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 143. 10. Tm
-(Alice \(1.2\)) Tj
+(Bob \(1.1\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 17. Tm
-(Available programs:) Tj
-T* (email, phone, system) Tj
-T* (administration skills) Tj
+(Available skills and programs:) Tj
+T* (email) Tj
 ET
 140. 99. m
 210. 99. l
@@ -638,18 +608,16 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 143. 109. Tm
-(Bob \(1.2\)) Tj
+(Story \(1.2\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 116. Tm
-(Available programs:) Tj
-T* (email, phone) Tj
-T* () Tj
-T* (To be run by Eve if there are) Tj
-T* (too little players) Tj
+(The system administrator has) Tj
+T* (retired; a new administrator is) Tj
+T* (needed. Fold open...) Tj
 ET
 140. 198. m
 210. 198. l
@@ -662,20 +630,16 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 143. 208. Tm
-(Charlie \(2.1\)) Tj
+(Alice \(1.2\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 215. Tm
-(Available programs:) Tj
-T* (phone, icann-board) Tj
-T* () Tj
-T* (NPC) Tj
-T* () Tj
-T* (Hands out IP-address-ranges) Tj
-T* (when requested) Tj
+(Available skills and programs:) Tj
+T* (email, phone, system) Tj
+T* (administration skills) Tj
 ET
 140. 297. m
 210. 297. l
@@ -695,7 +659,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 4222
+/Length 4015
 >>
 stream
 0.200025 w
@@ -705,16 +669,329 @@ BT
 /F1 6.35 Tf
 7.3024999999999993 TL
 0 g
+1. 0. 0. -1. 3. 10. Tm
+(Bob) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 3. 17. Tm
+(You are a hard-working) Tj
+T* (engineer. You don't do anything) Tj
+T* (the first turn.) Tj
+T* (When you receive an email,) Tj
+T* (send an appropriate answer) Tj
+T* (with the 'email'-program. It is) Tj
+T* (up to you to accept or deny the) Tj
+T* (request in the email!) Tj
+T* (If Alice receives your email,) Tj
+T* (you WIN this scenario.) Tj
+ET
+0. 99. m
+70. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 109. Tm
+(Story) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 3. 116. Tm
+(Everyone with System) Tj
+T* (Administrator Skills who wants) Tj
+T* (can apply, a 'colleague'-NPC) Tj
+T* (will apply as well.) Tj
+T* () Tj
+T* (Every applicant rolls a dice, the) Tj
+T* (participant with the highest) Tj
+T* (amount will become the) Tj
+T* (administrator. In case of tie,) Tj
+T* (those winners roll again.) Tj
+ET
+0. 198. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 208. Tm
+(Alice) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 3. 215. Tm
+(Send a sweet love letter to Bob) Tj
+T* (during the fourth turn.) Tj
+ET
+0. 297. m
+70. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Alice) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 17. Tm
+(1. Phone Charlie of 'ICANN',) Tj
+T* (ask him for a range of) Tj
+T* (IP-addresses. Place the) Tj
+T* (IP-address-range into the slot) Tj
+T* (of the mainframe) Tj
+T* () Tj
+T* (2. Assign an IP-address to) Tj
+T* (every PC of your mainframe by) Tj
+T* (placing a label in the slot of the) Tj
+T* (corresponding wire.) Tj
+T* () Tj
+T* (3. Send an IP-message from) Tj
+T* (your PC to the colleague on) Tj
+T* (your network) Tj
+T* () Tj
+T* () Tj
+ET
+70. 99. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 109. Tm
+(Bob) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 116. Tm
+(1. Phone Charlie of 'ICANN',) Tj
+T* (ask him for a range of) Tj
+T* (IP-addresses. Place the) Tj
+T* (IP-address-range into the slot) Tj
+T* (of the mainframe) Tj
+T* () Tj
+T* (2. Assign an IP-address to) Tj
+T* (every PC of your mainframe by) Tj
+T* (placing a label in the slot of the) Tj
+T* (corresponding wire.) Tj
+T* () Tj
+T* (3. Send an IP-message from) Tj
+T* (your PC to the colleague on) Tj
+T* (your network) Tj
+T* () Tj
+T* () Tj
+ET
+70. 198. m
+140. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 208. Tm
+(Eve) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 215. Tm
+(1. Phone Charlie of 'ICANN',) Tj
+T* (ask him for a range of) Tj
+T* (IP-addresses. Place the) Tj
+T* (IP-address-range into the slot) Tj
+T* (of the mainframe) Tj
+T* () Tj
+T* (2. Assign an IP-address to) Tj
+T* (every PC of your mainframe by) Tj
+T* (placing a label in the slot of the) Tj
+T* (corresponding wire.) Tj
+T* () Tj
+T* (3. Send an IP-message from) Tj
+T* (your PC to the colleague on) Tj
+T* (your network) Tj
+T* () Tj
+T* () Tj
+ET
+70. 297. m
+140. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
 1. 0. 0. -1. 143. 10. Tm
-(Alice \(1.2\)) Tj
+(Alice) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 17. Tm
-(Send a sweet love letter to Bob) Tj
-T* (during the fourth turn.) Tj
+(If your colleague receives the) Tj
+T* (message, you WIN this) Tj
+T* (scenario) Tj
+ET
+140. 99. m
+210. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 109. Tm
+(Bob) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 116. Tm
+(If your colleague receives the) Tj
+T* (message, you WIN this) Tj
+T* (scenario) Tj
+ET
+140. 198. m
+210. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 208. Tm
+(Eve) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 215. Tm
+(If your colleague receives the) Tj
+T* (message, you WIN this) Tj
+T* (scenario) Tj
+ET
+140. 297. m
+210. 297. l
+S
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2755905511811534 841.8897637795276978]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1939
+>>
+stream
+0.200025 w
+0 G
+2.8346456692913389 0. 0. -2.8346456692913389 0. 841.8897637795276978 cm
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 10. Tm
+(Alice \(2.2\)) Tj
+ET
+0. 99. m
+70. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 109. Tm
+(Bob \(2.2\)) Tj
+ET
+0. 198. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 208. Tm
+(Email \(Program\)) Tj
+ET
+0. 297. m
+70. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Alice \(2.2\)) Tj
+ET
+70. 99. m
+140. 99. l
+S
+140. 0. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 109. Tm
+(Bob \(2.2\)) Tj
+ET
+70. 198. m
+140. 198. l
+S
+140. 99. m
+140. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 208. Tm
+(Email \(Program\)) Tj
+ET
+70. 297. m
+140. 297. l
+S
+140. 198. m
+140. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Bob \(1.2\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+(Available skills and programs:) Tj
+T* (email, phone) Tj
+T* () Tj
+T* (To be run by Eve if there are) Tj
+T* (too little players) Tj
 ET
 140. 99. m
 210. 99. l
@@ -727,13 +1004,79 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 143. 109. Tm
-(Bob \(1.2\)) Tj
+(Eve \(1.2\)) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 143. 116. Tm
+(Available skills and programs:) Tj
+T* (email, phone, system) Tj
+T* (administration skills) Tj
+ET
+140. 198. m
+210. 198. l
+S
+210. 99. m
+210. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 208. Tm
+(Story \(2.1\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 215. Tm
+(Arpanet, Boston University and) Tj
+T* (the NSA want to connect to) Tj
+T* (each other via the internet. This) Tj
+T* (is not straightforward) Tj
+T* () Tj
+T* (All three start with setting up IP) Tj
+T* (for their local networks) Tj
+ET
+140. 297. m
+210. 297. l
+S
+210. 198. m
+210. 297. l
+S
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2755905511811534 841.8897637795276978]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 4443
+>>
+stream
+0.200025 w
+0 G
+2.8346456692913389 0. 0. -2.8346456692913389 0. 841.8897637795276978 cm
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 10. Tm
+(Bob) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 3. 17. Tm
 (Send out a work-related email) Tj
 T* (on the first turn to) Tj
 T* ('charlie@pc4'.) Tj
@@ -751,126 +1094,6 @@ T* (six, this scenario ends) Tj
 T* (NEUTRAL and the cards for) Tj
 T* (Alice and Bob are discarded.) Tj
 ET
-140. 198. m
-210. 198. l
-S
-210. 99. m
-210. 198. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 143. 208. Tm
-(Charlie \(2.1\)) Tj
-ET
-140. 297. m
-210. 297. l
-S
-210. 198. m
-210. 297. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 73. 10. Tm
-(Alice \(2.1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 73. 17. Tm
-(If your colleague receives the) Tj
-T* (message, you WIN this) Tj
-T* (scenario) Tj
-ET
-70. 99. m
-140. 99. l
-S
-140. 0. m
-140. 99. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 73. 109. Tm
-(Bob \(2.1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 73. 116. Tm
-(If your colleague receives the) Tj
-T* (message, you WIN this) Tj
-T* (scenario) Tj
-ET
-70. 198. m
-140. 198. l
-S
-140. 99. m
-140. 198. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 73. 208. Tm
-(Boss \(1.2\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 73. 215. Tm
-(If presented with a love letter) Tj
-T* (between two persons, they'll) Tj
-T* (both be fired) Tj
-T* () Tj
-T* (If someone sends out fake) Tj
-T* (emails, this person will be fired.) Tj
-T* (The person reporting this) Tj
-T* (behaviour will be awarded the) Tj
-T* (victory point of the fired person.) Tj
-ET
-70. 297. m
-140. 297. l
-S
-140. 198. m
-140. 297. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 3. 10. Tm
-(Alice \(2.1\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 17. Tm
-(1. Phone Charlie of 'ICANN',) Tj
-T* (ask him for a range of) Tj
-T* (IP-addresses. Place the) Tj
-T* (IP-address-range into the slot) Tj
-T* (of the mainframe) Tj
-T* () Tj
-T* (2. Assign an IP-address to) Tj
-T* (every PC of your mainframe by) Tj
-T* (placing a label in the slot of the) Tj
-T* (corresponding wire.) Tj
-T* () Tj
-T* (3. Send an IP-message from) Tj
-T* (your PC to the colleague on) Tj
-T* (your network) Tj
-T* () Tj
-T* () Tj
-ET
 0. 99. m
 70. 99. l
 S
@@ -879,45 +1102,13 @@ BT
 7.3024999999999993 TL
 0 g
 1. 0. 0. -1. 3. 109. Tm
-(Bob \(2.1\)) Tj
+(Eve) Tj
 ET
 BT
 /F1 4.58611111111111 Tf
 5.2740277777777766 TL
 0 g
 1. 0. 0. -1. 3. 116. Tm
-(1. Phone Charlie of 'ICANN',) Tj
-T* (ask him for a range of) Tj
-T* (IP-addresses. Place the) Tj
-T* (IP-address-range into the slot) Tj
-T* (of the mainframe) Tj
-T* () Tj
-T* (2. Assign an IP-address to) Tj
-T* (every PC of your mainframe by) Tj
-T* (placing a label in the slot of the) Tj
-T* (corresponding wire.) Tj
-T* () Tj
-T* (3. Send an IP-message from) Tj
-T* (your PC to the colleague on) Tj
-T* (your network) Tj
-T* () Tj
-T* () Tj
-ET
-0. 198. m
-70. 198. l
-S
-BT
-/F1 6.35 Tf
-7.3024999999999993 TL
-0 g
-1. 0. 0. -1. 3. 208. Tm
-(Eve \(1.2\)) Tj
-ET
-BT
-/F1 4.58611111111111 Tf
-5.2740277777777766 TL
-0 g
-1. 0. 0. -1. 3. 215. Tm
 (Your goal is to sabotage the) Tj
 T* (love between Alice & Bob.) Tj
 T* (Ideally, someone causes a lot) Tj
@@ -934,22 +1125,709 @@ T* () Tj
 T* (If you can sabotage their love,) Tj
 T* (you'll keep this victory point) Tj
 ET
+0. 198. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 208. Tm
+(Story) Tj
+ET
+0. 297. m
+70. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Alice) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 17. Tm
+(0. Place a wire with a pin in) Tj
+T* (your mainframe, the other) Tj
+T* (\(male\) side is still loose) Tj
+T* (1. Phone Bob from Boston) Tj
+T* (University; ask him if they want) Tj
+T* (to connect via direct wire. Also:) Tj
+T* (ask him his IP-addresss) Tj
+T* (2. If Bob agrees, connect the) Tj
+T* (two loose wires.) Tj
+T* () Tj
+T* () Tj
+ET
+70. 99. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 109. Tm
+(Bob) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 116. Tm
+(Place a wire with a pin in your) Tj
+T* (mainframe. The other \(female\)) Tj
+T* (end is still loose.) Tj
+T* () Tj
+T* (If Alice calls you, agree with) Tj
+T* (her proposal.) Tj
+T* () Tj
+T* (If a wire gets connected, send) Tj
+T* (a message with text) Tj
+T* ('BGP-announcement: IP-range) Tj
+T* (<your range here> can be) Tj
+T* (reached via this wire in 1 hop') Tj
+T* (and send it via the wire.) Tj
+T* () Tj
+T* () Tj
+ET
+70. 198. m
+140. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 208. Tm
+(Email) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 215. Tm
+(To send an email:) Tj
+T* () Tj
+T* (1. Take a piece of paper) Tj
+T* (2. Write 'to) Tj
+T* (<user>@<machine> from) Tj
+T* (<user>@<machine>' on top,) Tj
+T* (replacing <user> and) Tj
+T* (<machine> with the actual) Tj
+T* (recipient and sender.) Tj
+T* (3. Write a message below) Tj
+T* (4. Put the email on the) Tj
+T* (mainframe, with the written) Tj
+T* (side down so that other players) Tj
+T* (cannot read it.) Tj
+T* (5. Your turn ends) Tj
+T* () Tj
+T* () Tj
+ET
+70. 297. m
+140. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Alice) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+(If a wire gets connected, send) Tj
+T* (a message with text) Tj
+T* ('BGP-announcement: IP-range) Tj
+T* (<your range here> can be) Tj
+T* (reached via this wire in 1 hop') Tj
+T* (and send it via the wire.) Tj
+T* () Tj
+T* (3. Send an IP-message to the) Tj
+T* (IP-address of Bob \(you asked) Tj
+T* (this in the phone earlier. If) Tj
+T* (you've forgotten it, call again\)) Tj
+T* (4. Wait for a reply; if a reply) Tj
+T* (arrives, you have WON this) Tj
+T* (scenario) Tj
+ET
+140. 99. m
+210. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 109. Tm
+(Bob) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 116. Tm
+(When you get an IP-message,) Tj
+T* (send some answer. You WIN) Tj
+T* (this scenario.) Tj
+ET
+140. 198. m
+210. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 208. Tm
+(Email) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 215. Tm
+(Note: to 'forward' an email, it is) Tj
+T* (permitted to write a header) Tj
+T* (above the original message.) Tj
+ET
+140. 297. m
+210. 297. l
+S
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2755905511811534 841.8897637795276978]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 1692
+>>
+stream
+0.200025 w
+0 G
+2.8346456692913389 0. 0. -2.8346456692913389 0. 841.8897637795276978 cm
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 10. Tm
+(Phone \(Program\)) Tj
+ET
+0. 99. m
+70. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 109. Tm
+(Mainframe \(IP\)) Tj
+T* (\(Program\)) Tj
+ET
+0. 198. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 208. Tm
+(Story \(2.3\)) Tj
+ET
 0. 297. m
 70. 297. l
 S
 70. 198. m
 70. 297. l
 S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Phone \(Program\)) Tj
+ET
+70. 99. m
+140. 99. l
+S
+140. 0. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 109. Tm
+(Mainframe \(IP\)) Tj
+T* (\(Program\)) Tj
+ET
+70. 198. m
+140. 198. l
+S
+140. 99. m
+140. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 208. Tm
+(Alice \(2.3\)) Tj
+ET
+70. 297. m
+140. 297. l
+S
+140. 198. m
+140. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Charlie \(2.1\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+(Available skills and programs:) Tj
+T* (phone, icann-board) Tj
+T* () Tj
+T* (NPC) Tj
+T* () Tj
+T* (Hands out IP-address-ranges) Tj
+T* (when requested) Tj
+ET
+140. 99. m
+210. 99. l
+S
+210. 0. m
+210. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 109. Tm
+(Story \(2.2\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 116. Tm
+(Time to connect ARPANET) Tj
+T* (with Boston University) Tj
+ET
+140. 198. m
+210. 198. l
+S
+210. 99. m
+210. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 208. Tm
+(Bob \(2.3\)) Tj
+ET
+140. 297. m
+210. 297. l
+S
+210. 198. m
+210. 297. l
+S
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2755905511811534 841.8897637795276978]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 3052
+>>
+stream
+0.200025 w
+0 G
+2.8346456692913389 0. 0. -2.8346456692913389 0. 841.8897637795276978 cm
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 10. Tm
+(Charlie) Tj
+ET
+0. 99. m
+70. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 109. Tm
+(Story) Tj
+ET
+0. 198. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 208. Tm
+(Bob) Tj
+ET
+0. 297. m
+70. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Phone) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 17. Tm
+(In normal circumstances, it is) Tj
+T* (not permitted to communicate) Tj
+T* (between players, but this is) Tj
+T* (allowed with the phone) Tj
+T* (program.) Tj
+T* () Tj
+T* (1. Announce who you are) Tj
+T* (calling. This person must also) Tj
+T* (have access to the phone.) Tj
+T* (2. You can now communicate) Tj
+T* (scenario-information with the) Tj
+T* (person you are calling.) Tj
+T* (3. End your turn) Tj
+T* () Tj
+T* () Tj
+ET
+70. 99. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 109. Tm
+(Mainframe \(IP\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 116. Tm
+(0. If a wire is broken, turn the) Tj
+T* (IP-label face-down to indicate a) Tj
+T* (loss in connectivity.) Tj
+T* () Tj
+T* (1. If a message reads 'IP-range) Tj
+T* (<range> can be reached via) Tj
+T* (this wire', place a label of the) Tj
+T* (corresponding IP range in the) Tj
+T* (slot of the wire. Place a dice) Tj
+T* (next to it, indicating the number) Tj
+T* (of hops needed) Tj
+T* () Tj
+T* () Tj
+ET
+70. 198. m
+140. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 208. Tm
+(Alice) Tj
+ET
+70. 297. m
+140. 297. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Phone) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+(Note: Who has a phone is) Tj
+T* (considered public information,) Tj
+T* (so you can ask the other) Tj
+T* (players this information in case) Tj
+T* (of doubt.) Tj
+ET
+140. 99. m
+210. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 109. Tm
+(Mainframe \(IP\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 116. Tm
+(2. If a message reads 'from) Tj
+T* (<ip> to <target-ip>': check all) Tj
+T* (labels. If a label matches the) Tj
+T* (IP-address exactly, send it via) Tj
+T* (this wire.) Tj
+T* (If no exact IP-address match is) Tj
+T* (found, send it via the) Tj
+T* (range-label starting with the) Tj
+T* (same number and which has) Tj
+T* (the lowest number of hops.) Tj
+T* (   If not possible, discard the) Tj
+T* (message.) Tj
+ET
+140. 198. m
+210. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 208. Tm
+(Story) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 215. Tm
+(Now that ARPANet and Boston) Tj
+T* (University are connected, they) Tj
+T* (can start their secret research.) Tj
+T* () Tj
+T* (But the NSA would like to) Tj
+T* (snoop on the research too, and) Tj
+T* (maybe sabotage it...) Tj
+ET
+140. 297. m
+210. 297. l
+S
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2755905511811534 841.8897637795276978]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 1189
+>>
+stream
+0.200025 w
+0 G
+2.8346456692913389 0. 0. -2.8346456692913389 0. 841.8897637795276978 cm
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 10. Tm
+(Eve \(2.3\)) Tj
+ET
+0. 99. m
+70. 99. l
+S
+70. 0. m
+70. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 109. Tm
+(Email server) Tj
+T* (\(Program\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 3. 123. Tm
+(How to run a mainframe \(or) Tj
+T* (email server\)?) Tj
+ET
+0. 198. m
+70. 198. l
+S
+70. 99. m
+70. 198. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Wire cut \(Program\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 73. 17. Tm
+(Disconnect a wire, anywhere) Tj
+T* (on the board.) Tj
+T* () Tj
+T* (End your turn) Tj
+ET
+70. 99. m
+140. 99. l
+S
+140. 0. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Connect \(Program\)) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+(Connect a wire, anywhere on) Tj
+T* (the board.) Tj
+T* () Tj
+T* (If an IP-label is face-down,) Tj
+T* (place it face up again) Tj
+T* () Tj
+T* (End your turn) Tj
+ET
+140. 99. m
+210. 99. l
+S
+210. 0. m
+210. 99. l
+S
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2755905511811534 841.8897637795276978]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 927
+>>
+stream
+0.200025 w
+0 G
+2.8346456692913389 0. 0. -2.8346456692913389 0. 841.8897637795276978 cm
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 3. 10. Tm
+(Connect) Tj
+ET
+0. 99. m
+70. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 73. 10. Tm
+(Wire cut) Tj
+ET
+70. 99. m
+140. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 10. Tm
+(Eve) Tj
+ET
+BT
+/F1 4.58611111111111 Tf
+5.2740277777777766 TL
+0 g
+1. 0. 0. -1. 143. 17. Tm
+(Eve wants to know what) Tj
+T* (research messages are sent) Tj
+T* (between Arpanet and Boston) Tj
+T* (university.) Tj
+T* () Tj
+T* (She wants to:) Tj
+T* ( Know _which_ employees are) Tj
+T* (sending messages to each) Tj
+T* (other?) Tj
+T* (- Know _what_ do these) Tj
+T* (messages say?) Tj
+T* (- alter some of those) Tj
+T* (messages...) Tj
+ET
+140. 99. m
+210. 99. l
+S
+BT
+/F1 6.35 Tf
+7.3024999999999993 TL
+0 g
+1. 0. 0. -1. 143. 109. Tm
+(Email server) Tj
+ET
+140. 198. m
+210. 198. l
+S
 Q
 endstream
 endobj
 1 0 obj
 <</Type /Pages
-/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
-/Count 4
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R ]
+/Count 10
 >>
 endobj
-11 0 obj
+23 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica
@@ -959,7 +1837,7 @@ endobj
 /LastChar 255
 >>
 endobj
-12 0 obj
+24 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-Bold
@@ -969,7 +1847,7 @@ endobj
 /LastChar 255
 >>
 endobj
-13 0 obj
+25 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-Oblique
@@ -979,7 +1857,7 @@ endobj
 /LastChar 255
 >>
 endobj
-14 0 obj
+26 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-BoldOblique
@@ -989,7 +1867,7 @@ endobj
 /LastChar 255
 >>
 endobj
-15 0 obj
+27 0 obj
 <<
 /Type /Font
 /BaseFont /Courier
@@ -999,7 +1877,7 @@ endobj
 /LastChar 255
 >>
 endobj
-16 0 obj
+28 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-Bold
@@ -1009,7 +1887,7 @@ endobj
 /LastChar 255
 >>
 endobj
-17 0 obj
+29 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-Oblique
@@ -1019,7 +1897,7 @@ endobj
 /LastChar 255
 >>
 endobj
-18 0 obj
+30 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-BoldOblique
@@ -1029,7 +1907,7 @@ endobj
 /LastChar 255
 >>
 endobj
-19 0 obj
+31 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Roman
@@ -1039,7 +1917,7 @@ endobj
 /LastChar 255
 >>
 endobj
-20 0 obj
+32 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Bold
@@ -1049,7 +1927,7 @@ endobj
 /LastChar 255
 >>
 endobj
-21 0 obj
+33 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Italic
@@ -1059,7 +1937,7 @@ endobj
 /LastChar 255
 >>
 endobj
-22 0 obj
+34 0 obj
 <<
 /Type /Font
 /BaseFont /Times-BoldItalic
@@ -1069,7 +1947,7 @@ endobj
 /LastChar 255
 >>
 endobj
-23 0 obj
+35 0 obj
 <<
 /Type /Font
 /BaseFont /ZapfDingbats
@@ -1078,7 +1956,7 @@ endobj
 /LastChar 255
 >>
 endobj
-24 0 obj
+36 0 obj
 <<
 /Type /Font
 /BaseFont /Symbol
@@ -1091,32 +1969,32 @@ endobj
 <<
 /ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 /Font <<
-/F1 11 0 R
-/F2 12 0 R
-/F3 13 0 R
-/F4 14 0 R
-/F5 15 0 R
-/F6 16 0 R
-/F7 17 0 R
-/F8 18 0 R
-/F9 19 0 R
-/F10 20 0 R
-/F11 21 0 R
-/F12 22 0 R
-/F13 23 0 R
-/F14 24 0 R
+/F1 23 0 R
+/F2 24 0 R
+/F3 25 0 R
+/F4 26 0 R
+/F5 27 0 R
+/F6 28 0 R
+/F7 29 0 R
+/F8 30 0 R
+/F9 31 0 R
+/F10 32 0 R
+/F11 33 0 R
+/F12 34 0 R
+/F13 35 0 R
+/F14 36 0 R
 >>
 /XObject <<
 >>
 >>
 endobj
-25 0 obj
+37 0 obj
 <<
 /Producer (jsPDF 2.5.1)
-/CreationDate (D:20230101200854+01'00')
+/CreationDate (D:20230101213021+01'00')
 >>
 endobj
-26 0 obj
+38 0 obj
 <<
 /Type /Catalog
 /Pages 1 0 R
@@ -1125,41 +2003,53 @@ endobj
 >>
 endobj
 xref
-0 27
+0 39
 0000000000 65535 f 
-0000015548 00000 n 
-0000017388 00000 n 
+0000029369 00000 n 
+0000031252 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000002974 00000 n 
-0000003111 00000 n 
-0000008177 00000 n 
-0000008314 00000 n 
-0000011135 00000 n 
-0000011273 00000 n 
-0000015623 00000 n 
-0000015749 00000 n 
-0000015880 00000 n 
-0000016014 00000 n 
-0000016152 00000 n 
-0000016276 00000 n 
-0000016405 00000 n 
-0000016537 00000 n 
-0000016673 00000 n 
-0000016801 00000 n 
-0000016928 00000 n 
-0000017057 00000 n 
-0000017190 00000 n 
-0000017292 00000 n 
-0000017641 00000 n 
-0000017727 00000 n 
+0000002982 00000 n 
+0000003119 00000 n 
+0000008070 00000 n 
+0000008207 00000 n 
+0000010770 00000 n 
+0000010908 00000 n 
+0000014976 00000 n 
+0000015115 00000 n 
+0000017107 00000 n 
+0000017246 00000 n 
+0000021742 00000 n 
+0000021881 00000 n 
+0000023626 00000 n 
+0000023765 00000 n 
+0000026870 00000 n 
+0000027009 00000 n 
+0000028251 00000 n 
+0000028390 00000 n 
+0000029487 00000 n 
+0000029613 00000 n 
+0000029744 00000 n 
+0000029878 00000 n 
+0000030016 00000 n 
+0000030140 00000 n 
+0000030269 00000 n 
+0000030401 00000 n 
+0000030537 00000 n 
+0000030665 00000 n 
+0000030792 00000 n 
+0000030921 00000 n 
+0000031054 00000 n 
+0000031156 00000 n 
+0000031505 00000 n 
+0000031591 00000 n 
 trailer
 <<
-/Size 27
-/Root 26 0 R
-/Info 25 0 R
-/ID [ <94544FB7544060FAC48ADAAC9D08EC32> <94544FB7544060FAC48ADAAC9D08EC32> ]
+/Size 39
+/Root 38 0 R
+/Info 37 0 R
+/ID [ <7EEA428C092DE14A584DBFA57C679143> <7EEA428C092DE14A584DBFA57C679143> ]
 >>
 startxref
-17831
+31695
 %%EOF

@@ -85,38 +85,29 @@ class CharacterCardDrawer extends SvgToPdfInternals implements CardDrawer {
         this._persona = persona
     }
 
-    DrawPrivateSide() {
+    private Draw(title: string, contents?: string){
         this.text(
-            this._persona,
+            title,
             3,
             10,
             {fontSize: 18}
         )
-        if (this._card.priv) {
+        if (contents) {
             this.text(
-                this._card.priv,
+                contents,
                 3,
-                17,
+                17 + (title.length  > 18 ? 7 : 0) ,
                 {fontSize: 13}
             )
         }
     }
+    
+    DrawPrivateSide() {
+        this.Draw(this._persona, this._card.priv)
+    }
 
     DrawPublicSide() {
-        this.text(
-            this._persona,
-            3,
-            10,
-            {fontSize: 18}
-        )
-        if (this._card.publ) {
-            this.text(
-                this._card.publ,
-                3,
-                17,
-                {fontSize: 13}
-            )
-        }
+        this.Draw(this._persona, this._card.publ)
     }
 
 }
@@ -162,10 +153,10 @@ class Main {
                 if (c === undefined) {
                     continue
                 }
-                const drawer = new CharacterCardDrawer(c.persona + " (" + c.scenario + ")", c.card, advancedApi)
-                drawer.setLocation(2 - x, y)
+                const drawer = new CharacterCardDrawer(c.persona, c.card, advancedApi)
+                drawer.setLocation( x, y)
                 drawer.DrawPrivateSide()
-                this.drawEdges(2 - x, y, advancedApi, c.folded)
+                this.drawEdges(x , y, advancedApi, true)
             }
         }
 
@@ -217,7 +208,7 @@ class Main {
             const skills = <string[]> subscenario[character].skills
 
             if(skills){
-                const skls = "Available programs:\n"+skills.join(", ")
+                const skls = "Available skills and programs:\n"+skills.join(", ")
                 if(publ){
                     publ = skls+"\n\n"+publ
                 }else{
@@ -236,16 +227,15 @@ class Main {
                 do {
                     priv0 += privSpl.shift()
                     priv0 += "\n\n"
-                    console.log(priv0.length, privSpl[0].length, cutoff, priv0)
                 } while (priv0.length + privSpl[0].length < cutoff)
                 result.push({
-                    card: {publ, priv: priv0},
+                    card: { priv: privSpl.join("\n\n")},
                     folded: true,
                     persona: character,
                     scenario: scenarioName
                 })
                 result.push({
-                    card: {priv: privSpl.join("\n\n")},
+                    card: {publ, priv: priv0},
 
                     persona: character,
                     scenario: scenarioName
@@ -279,6 +269,9 @@ class Main {
             }
             i++
         }
+        
+        result.push(...this.ExtractScenario("Program", cards["programs"]))
+        
         return result;
     }
 
